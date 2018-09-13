@@ -1,0 +1,18 @@
+/* UNiversal Style */
+
+html {
+    font-size: 18px;
+    line-height: 1.4;
+}
+
+body {
+    display: block;
+}
+
+.flex {
+    display:flex;
+}
+
+.container {
+    max-width: 960px;
+}
